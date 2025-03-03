@@ -265,7 +265,7 @@ const App = () => {
             "Designed efficient model for storing and handing various type of data, and integrated RESTful APIs of backend to frontend(React).",
           ],
           date: "Mar 2016 - Jun 2017",
-          github: "https://github.com/tech-master823/erp-system",
+          github: "https://github.com/creative2113/erp-system",
         },
         {
           id: "6",
@@ -319,8 +319,7 @@ const App = () => {
           ],
           date: "Nov 2021 - Apr 2022",
           webapp: "https://health.ai",
-          github:
-            "https://github.com/tech-master823/Healthcare-consulting-system",
+          github: "https://github.com/creative2113/Healthcare-consulting-system",
         },
         {
           id: "3",
@@ -369,7 +368,7 @@ const App = () => {
             "React",
           ],
           date: "Apr 2021 - Aug 2021",
-          github: "https://github.com/tech-master823/AI-voice-assistant",
+          github: "https://github.com/creative2113/AI-voice-assistant",
         },
         {
           id: "5",
@@ -437,7 +436,7 @@ const App = () => {
             "Pinecone",
           ],
           date: "Jul 2023 - Sept 2023",
-          github: "https://github.com/tech-master823/ChatSoc",
+          github: "https://github.com/creative2113/ChatSoc",
         },
       ],
       education: [
